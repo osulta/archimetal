@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Equipment &amp; process specific data"
+    id="id-56954">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-56910.xml#id-56910"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-56908.xml#id-56908"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM behavior_new_3"
+    id="id-56621">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-57496"
+      font="1|Arial|10.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#afffff">
+    <bounds
+        x="347"
+        y="100"
+        width="121"
+        height="33"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-57497.xml#id-57497"/>
+  </children>
+</archimate:ArchimateDiagramModel>

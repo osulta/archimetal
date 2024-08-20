@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delivery confirmation"
+    id="id-57828">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-57098.xml#id-57098"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-57727.xml#id-57727"/>
+</archimate:FlowRelationship>

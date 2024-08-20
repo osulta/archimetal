@@ -1,0 +1,11 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-59640">
+  <source
+      xsi:type="archimate:Facility"
+      href="Facility_id-59714.xml#id-59714"/>
+  <target
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_id-58499.xml#id-58499"/>
+</archimate:AssignmentRelationship>

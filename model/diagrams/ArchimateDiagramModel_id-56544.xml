@@ -1,0 +1,247 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motivation - business performance focus"
+    id="id-56544"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58974"
+      font="1|Arial Narrow|14.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-58984"
+        font="1|Arial Narrow|14.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-58974"
+        target="id-58978">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-58418.xml#id-58418"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-58983"
+        font="1|Arial Narrow|14.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-58974"
+        target="id-58986">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-58422.xml#id-58422"/>
+    </sourceConnections>
+    <bounds
+        x="687"
+        y="67"
+        width="140"
+        height="100"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-58419.xml#id-58419"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58978"
+      targetConnections="id-58984 id-58988"
+      font="1|Arial Narrow|14.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-58982"
+        font="1|Arial Narrow|14.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-58978"
+        target="id-58979">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-58406.xml#id-58406"/>
+    </sourceConnections>
+    <bounds
+        x="553"
+        y="200"
+        width="140"
+        height="100"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-58407.xml#id-58407"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58975"
+      targetConnections="id-58989 id-58973 id-58981"
+      font="1|Arial Narrow|14.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-58988"
+        font="1|Arial Narrow|14.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-58975"
+        target="id-58978">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-58434.xml#id-58434"/>
+    </sourceConnections>
+    <bounds
+        x="380"
+        y="347"
+        width="140"
+        height="100"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-58385.xml#id-58385"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58986"
+      targetConnections="id-58983"
+      font="1|Arial Narrow|14.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-58977"
+        font="1|Arial Narrow|14.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-58986"
+        target="id-58979">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-58467.xml#id-58467"/>
+    </sourceConnections>
+    <bounds
+        x="813"
+        y="213"
+        width="140"
+        height="100"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-58423.xml#id-58423"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58987"
+      font="1|Arial Narrow|14.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-58989"
+        font="1|Arial Narrow|14.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-58987"
+        target="id-58975">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-58383.xml#id-58383"/>
+    </sourceConnections>
+    <bounds
+        x="127"
+        y="500"
+        width="140"
+        height="100"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-58384.xml#id-58384"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58979"
+      targetConnections="id-58982 id-58977 id-58976"
+      font="1|Arial Narrow|14.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <bounds
+        x="667"
+        y="347"
+        width="140"
+        height="100"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-58408.xml#id-58408"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58980"
+      font="1|Arial Narrow|14.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-58973"
+        font="1|Arial Narrow|14.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-58980"
+        target="id-58975">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-58395.xml#id-58395"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-58976"
+        font="1|Arial Narrow|14.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-58980"
+        target="id-58979">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-58433.xml#id-58433"/>
+    </sourceConnections>
+    <bounds
+        x="667"
+        y="500"
+        width="140"
+        height="100"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-58396.xml#id-58396"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58985"
+      font="1|Arial Narrow|14.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-58981"
+        font="1|Arial Narrow|14.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-58985"
+        target="id-58975">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-58465.xml#id-58465"/>
+    </sourceConnections>
+    <bounds
+        x="380"
+        y="500"
+        width="140"
+        height="100"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-58458.xml#id-58458"/>
+  </children>
+</archimate:ArchimateDiagramModel>

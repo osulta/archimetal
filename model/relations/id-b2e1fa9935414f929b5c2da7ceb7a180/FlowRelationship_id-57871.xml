@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bank statement"
+    id="id-57871">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-57872.xml#id-57872"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-57873.xml#id-57873"/>
+</archimate:FlowRelationship>

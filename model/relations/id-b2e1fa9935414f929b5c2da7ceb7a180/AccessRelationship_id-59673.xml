@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-59673"
+    accessType="1">
+  <source
+      xsi:type="archimate:Facility"
+      href="Facility_id-59701.xml#id-59701"/>
+  <target
+      xsi:type="archimate:Material"
+      href="Material_id-59705.xml#id-59705"/>
+</archimate:AccessRelationship>
